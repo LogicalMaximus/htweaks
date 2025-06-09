@@ -1,0 +1,20 @@
+{
+  "tank_shoot": {
+    "subtitles": "sounds.htweaks.tank_shoot",
+    "sounds": [
+      "htweaks:tank_shoot"
+    ]
+  },
+  "tank_hit": {
+    "subtitles": "sounds.htweaks.tank_hit",
+    "sounds": [
+      "htweaks:tank_hit"
+    ]
+  },
+  "warthog_shoot": {
+    "subtitles": "sounds.htweaks.warthog_shoot",
+    "sounds": [
+      "htweaks:warthog_shoot"
+    ]
+  }
+}

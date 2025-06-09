@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "expand": true,
+          "name": "tacz:modern_kinetic_gun",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "ops": [],
+              "tag": "{GunId:\"halo:br55\",GunFireMode:\"BURST\",GunCurrentAmmoCount:36}",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

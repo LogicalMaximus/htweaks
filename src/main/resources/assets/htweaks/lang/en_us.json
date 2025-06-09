@@ -1,0 +1,24 @@
+{
+  "entity.htweaks.unsc_marine": "UNSC Marine",
+  "entity.htweaks.covenant_elite": "Covenant Elite",
+  "entity.htweaks.scorpion_tank": "Scorpion Tank",
+  "item.htweaks.scorpion_tank": "Scorpion Tank",
+  "item.htweaks.warthog": "Warthog",
+  "item.htweaks.shield_unit":  "Energy Shield Unit",
+  "item.htweaks.ghost": "Ghost",
+  "item.htweaks.mongoose": "Mongoose",
+  "entity.htweaks.unsc_marine_radio": "UNSC Marine Radioman",
+  "entity.htweaks.covenant_elite_radio": "Covenant Elite Radioman",
+  "entity.htweaks.m3_crocidile": "M3 Crocidile",
+  "entity.htweaks.covenant_grunt": "Covenant Grunt",
+  "entity.htweaks.covenant_major_elite": "Covenant Major Elite",
+  "entity.htweaks.covenant_brute": "Covenant Brute",
+  "entity.htweaks.covenant_major_brute": "Covenant Major Brute",
+  "entity.htweaks.unsc_army_trooper": "Army Trooper",
+  "entity.htweaks.unsc_odst": "Orbital Drop Shock Trooper",
+  "key.category.htweaks.vehicles": "Htweaks Vehicle",
+  "key.htweaks.squad_command_key": "Squad Command Key",
+  "tooltip.htweaks.destruction_device": "This Unknown Device Gives You A Strange Feeling",
+
+  "commands.setheadquarters.success": "Set Headquarters"
+}

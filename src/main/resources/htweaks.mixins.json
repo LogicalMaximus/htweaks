@@ -1,0 +1,35 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.logic.htweaks.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "htweaks.refmap.json",
+  "mixins": [
+    "KineticBulletAccessor",
+    "MixinAbstractScavEntity",
+    "MixinAh6Entity",
+    "MixinBanditEntity",
+    "MixinBmp2Entity",
+    "MixinChangeCreatureProcedureProcedure",
+    "MixinChunkGenerator",
+    "MixinDamageablePart",
+    "MixinDamageDistribution",
+    "MixinDutyEntity",
+    "MixinLav150Entity",
+    "MixinPlacedFeature",
+    "MixinPlayer",
+    "MixinPlayerDamageModel",
+    "MixinPodInfectorEntity",
+    "MixinPrismTankEntity",
+    "MixinTaczShootAttack",
+    "MixinTargetOrRetaliate",
+    "MixinVehicleEntity"
+  ],
+  "client": [
+    "client.DutyModelMixin",
+    "client.MixinScavRenderer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

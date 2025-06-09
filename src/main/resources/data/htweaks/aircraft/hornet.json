@@ -1,0 +1,53 @@
+{
+  "properties": {
+    "stabilizer": 0.3,
+    "yawSpeed": 5.0,
+    "pitchSpeed": 5.0,
+    "engineSpeed": 0.6,
+    "pushSpeed": 0.3,
+    "verticalSpeed": 0.04,
+    "driftDrag": 0.01,
+    "lift": 0.1,
+    "rollFactor": 30.0,
+    "wind": 0.05,
+    "mass": 6.0,
+    "groundFriction": 0.8,
+    "horizontalDecay": 0.925,
+    "verticalDecay": 0.9
+  },
+  "inventorySlots": [
+    {"type": "weapon", "x": 14, "y": 24},
+    {"type": "upgrade", "x": 36, "y": 24},
+    {"type": "upgrade", "x": 14, "y": 46},
+    {"type": "upgrade", "x": 36, "y": 46},
+    {"type": "inventory", "x": 62, "y": 18, "cols": 6, "rows": 3}
+  ],
+  "weaponMounts": [
+    {
+      "ROTATING": [
+        {"x": 3.875, "y": 1.5, "z": -0.0625}
+      ],
+      "FRONT": [
+        {"x": 3.6875, "y": 1.6875, "z": -0.6875},
+        {"x": 3.6875, "y": 1.6875, "z": 0.6875}
+      ],
+      "DROP": [
+        {"x": 3.75, "y": 1.25, "z": 0.4375},
+        {"x": 3.75, "y": 1.25, "z": -0.4375},
+        {"x": 2.5, "y": 1.25, "z": 0.4375},
+        {"x": 2.5, "y": 1.25, "z": -0.4375}
+      ]
+    }
+  ],
+  "passengerPositions": [
+    [
+      {"x": 3.375, "y": 2.0625, "z": 0}
+    ],
+    [
+      {"x": 3.125, "y": 2.25, "z": 0},
+      {"x": 2.5, "y": 2.25, "z": 0}
+    ]
+  ],
+  "boundingBoxes": [
+  ]
+}

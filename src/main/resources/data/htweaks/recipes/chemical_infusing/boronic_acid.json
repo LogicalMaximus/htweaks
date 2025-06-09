@@ -1,0 +1,15 @@
+{
+  "type":"mekanism:chemical_infusing",
+  "leftInput":{
+    "amount":1,
+    "gas":"mekanism:hydrogen_chloride"
+  },
+  "output":{
+    "amount":1,
+    "gas":"htweaks:boric_acid"
+  },
+  "rightInput":{
+    "amount":1,
+    "gas":"mekanism:brine"
+  }
+}

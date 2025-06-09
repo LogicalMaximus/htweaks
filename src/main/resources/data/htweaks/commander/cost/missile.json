@@ -1,0 +1,5 @@
+{
+  "long_range_missile_cost" : 200,
+  "medium_range_missile_cost" : 150,
+  "short_range_missile_cost" : 100
+}

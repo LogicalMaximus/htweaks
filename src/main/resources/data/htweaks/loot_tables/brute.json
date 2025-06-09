@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "expand": true,
+          "name": "tacz:modern_kinetic_gun",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "ops": [],
+              "tag": "{GunId:\"halo:plasma_rifle\",GunFireMode:\"SEMI\",GunCurrentAmmoCount:400}",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "expand": true,
+          "name": "tacz:modern_kinetic_gun",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "ops": [],
+              "tag": "{GunId:\"halo:plasma_repeater\",GunFireMode:\"AUTO\",GunCurrentAmmoCount:200}",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "expand": true,
+          "name": "halo_mde:gravity_hammer",
+          "weight": 8
+        }
+      ]
+    }
+  ]
+}

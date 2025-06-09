@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "expand": true,
+          "name": "tacz:modern_kinetic_gun",
+          "weight": 60,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "ops": [],
+              "tag": "{GunId:\"halo:m392\",GunFireMode:\"SEMI\",GunCurrentAmmoCount:16}",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
